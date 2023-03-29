@@ -11,7 +11,7 @@ Actualmente me encuentro en la etapa final del bootcamp Henry, junto a eso busca
 </p>
 
 <h3>Datos de contacto</h3>
-<p>Linkein: <a href="https://www.linkedin.com/in/lucas-iriarte-8a552a256">https://www.linkedin.com/in/lucas-iriarte-8a552a256</a></p>
+<p>Linkedin: <a href="https://www.linkedin.com/in/lucas-iriarte-8a552a256">https://www.linkedin.com/in/lucas-iriarte-8a552a256</a></p>
 <p>E-mail: <a href="mailto:lucasiriarte67@gmail.com">Lucasiriarte67@gmail.com</a></p>
 
 <h3 align="left">Lenguajes y tecnologías que domino:</h3>
