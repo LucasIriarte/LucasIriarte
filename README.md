@@ -7,7 +7,7 @@ Soy una persona que le apasiona la tecnología en general, me gusta estar al tan
 </p>
 <h3>¿Que hago?</h3>
 <p>
-Actualmente me encuentro en la etapa final del bootcamp Henry, junto a eso buscando mejorar las practicas y seguir aprendiendo por mi parte.
+Soy desarrollador Web FullStack graduado en SoyHenry, buscando mi primera oportunidad laboral y mientras tanto ganando experiencia con proyectos personales.
 </p>
 
 <h3>Datos de contacto</h3>
